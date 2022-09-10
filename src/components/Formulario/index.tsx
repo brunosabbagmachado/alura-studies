@@ -1,8 +1,7 @@
-import React from 'react';
 import Botao from '../Botao';
 import style from './Formulario.module.scss'
 
-function Formulario() {
+export default function Formulario() {
     return (
         <form className={style.novaTarefa}>
             <div className={style.inputContainer}>
@@ -31,9 +30,7 @@ function Formulario() {
                     required
                 />
             </div>
-            <Botao />
+            <Botao>Adicionar</Botao>
         </form>
     )
 }
-
-export default Formulario;
