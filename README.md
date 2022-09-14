@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Alura Studies
+
+Projeto desenvolvido durante [curso](https://cursos.alura.com.br/course/react-modernizando-escrever-typescript) da Alura.
+
+Abaixo instruções sobre o React App, que são criadas ao iniciar o projeto React.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
